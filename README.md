@@ -1,6 +1,6 @@
 # Hi, I'm Tee 👋
 
-IT Student | Developer | Open Source Contributor
+Developer | Open Source Contributor
 
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ciaotee86/badge.svg)](https://hub.xerj.org/contributors/ciaotee86)
 
