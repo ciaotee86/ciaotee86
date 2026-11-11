@@ -1,8 +1,12 @@
+ <div align="center">
+
 # Hi, I'm Tee 👋
 
-Developer | Open Source Contributor
+**Developer | Open Source Contributor**
 
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/ciaotee86/badge.svg)](https://hub.xerj.org/contributors/ciaotee86)
+[![XERJ Corpus Hub Contributor](https://hub.xerj.org/contributors/ciaotee86/badge.svg)](https://hub.xerj.org/contributors/ciaotee86)
+
+</div>
 
 <!--
 **ciaotee86/ciaotee86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
